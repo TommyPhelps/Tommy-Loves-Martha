@@ -8,4 +8,10 @@ body {
     display: flex;
     flex-direction: column;
     padding: 20px 10% 0;
+    background-color: #EF8354;
+}
+
+body > div {
+    padding: 20px;
+    background-color: #FDFFFC;
 }
