@@ -50,7 +50,7 @@ p {
 
 .aesthetic-img {
     height: 300px;
-    transform: translate(320px, 0) rotate(3deg);
+    transform: translate(400px, 0) rotate(3deg);
     outline: 8px solid #DF3B57;
     border: 5px solid white;
 }
