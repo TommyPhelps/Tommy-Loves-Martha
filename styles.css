@@ -8,7 +8,7 @@
 body {
     display: flex;
     flex-direction: column;
-    padding: 20px 10% 0;
+    padding: 20px 10%;
     background-color: #EF8354;
 }
 
@@ -39,4 +39,18 @@ h2 {
 
 p {
     padding-bottom: 10px;
+}
+
+.living-img {
+    width: 250px;
+    transform: translate(200px, 0) rotate(266deg);
+    outline: 8px solid #DF3B57;
+    border: 5px solid white;
+}
+
+.aesthetic-img {
+    height: 300px;
+    transform: translate(320px, 0) rotate(3deg);
+    outline: 8px solid #DF3B57;
+    border: 5px solid white;
 }
