@@ -13,7 +13,13 @@ body {
 }
 
 body > div {
+    padding: 5px;
+    background-color: #FDFFFC;
+}
+
+body > div > div {
     padding: 20px;
+    border: dashed 3px #DF3B57;
     background-color: #FDFFFC;
 }
 
