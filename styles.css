@@ -23,6 +23,10 @@ body > div > div {
     background-color: #FDFFFC;
 }
 
+.signature {
+    padding: 10px 0 0;
+}
+
 h1 {
     padding-bottom: 20px;
     font-size: 24pt;
